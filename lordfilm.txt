@@ -1,5 +1,1 @@
-LordFilm|https://mc.lordfilm.md/|🎬 Фильмы и сериалы в HD качестве
-Kinogo|https://kinogo.zone|🎥 Лучшие фильмы онлайн
-Filmix|https://filmix.ac|🍿 Новинки кино
-HDRezka|https://hdrezka.ag|📺 Фильмы в хорошем качестве
-Seasonvar|https://seasonvar.ru|📋 Сериалы по сезонам
+https://mc.lordfilm.md
